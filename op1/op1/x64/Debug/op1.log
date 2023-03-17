@@ -1,0 +1,7 @@
+﻿  FileP.cpp
+H:\Univer\ОП\op1\op1\op1\FileP.cpp(122,43): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+H:\Univer\ОП\op1\op1\op1\FileP.cpp(126,34): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+H:\Univer\ОП\op1\op1\op1\FileP.cpp(132,62): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  Создание кода...
+  op1.vcxproj -> H:\Univer\ОП\op1\op1\x64\Debug\op1.exe
